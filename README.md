@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O NLW E-Sports é um agregador de links que apresenta os principais jogos e streamers que você acompanha.
+- [Acesse o projeto finalizado, online](https://heloisadalonso.github.io/nlw-eSports/)
 
 
 ## 🔖 Layout
