@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto NLW E-Sports" src=".github/preview.png" width="50%">
+  <img alt="projeto NLW E-Sports" src=".github/desktop.png">
 </p>
 
 ## 🚀 Tecnologias
@@ -42,15 +42,13 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## 💻 Telas
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/darkmode-mobile.png" width="40%" height="600px">
-  <img alt="projeto DevLinks" src=".github/lightmode-mobile.png" width="40%" height = "600px">
+  <img alt="Tela mobile início" src=".github/mobile1.png">
+  <img alt="Tela mobile final" src=".github/mobile2.png">
 </p>
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/darkmode-desktop.png" width="100%">
+  <img alt="Tela desktop" src=".github/desktop.png">
 </p>
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/lightmode-desktop.png" width="100%">
-</p>
+
 
 ## :memo: Licença
 
