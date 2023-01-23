@@ -42,8 +42,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## 💻 Telas
 
 <p align="center">
-  <img alt="Tela mobile início" src=".github/mobile1.png" width="40%" height="918px">
-  <img alt="Tela mobile final" src=".github/mobile2.png" width= "40%" height="918px" >
+  <img alt="Tela mobile início" src=".github/mobile1.png" width="40%">
+  <img alt="Tela mobile final" src=".github/mobile2.png" width= "40%">
 </p>
 <p align="center">
   <img alt="Tela desktop" src=".github/desktop.png">
